@@ -10,7 +10,7 @@ Disini kita akan membahas 3 macam MPPL yang mewakili tradisional / klasik maupun
 
 ## Metode Waterfall (Tradisional)
 
-![gambar metode waterfall](/Gambar/Waterfall.png)
+![gambar metode waterfall](/Gambar/Waterfall.png)</br>
 Metode Waterfall merupakan metode MPPL yang dalam pengembangan perangkat lunak dilakukan secara terstruktur dan sistematis
 atau berurutan sesuai dengan siklus pengembangan yang ada. Metode ini diberi nama waterfall karena dalam proses pembuatan sistemnya dibuat berurutan setahap
 demi setahap. Pada umumnya urutan tahapan metode Waterfall adalah :
@@ -42,7 +42,7 @@ apa yang telah disepakati diawal akan menjadi hasil akhir.
 
 ## Metode Prototype (Tradisional)
 
-![gambar metode prototype](/Gambar/Prototype.jpg)
+![gambar metode prototype](/Gambar/Prototype.jpg)</br>
 Metode Prototype merupakan metode MPPL yang dalam pengembangan perangkat lunaknya menggunakan prototype untuk menggambarkan 
 sistem kepada klien sehingga klien sendiri memiliki gambaran yang jelas tentang sistem yang akan dibangun oleh tim pengembang.</br>
 Prototype sendiri dapat diartikan sebagai rupa awal dari sistem yang akan menggambarkan rupa akhir dari sistem tersebut. Contohnya jika kita ingin membangun rumah, pasti
@@ -73,7 +73,7 @@ Metode prototype sendiri pada umumnya memiliki tahapan sebagai berikut :
 
 ## Metode Agile (Agile)
 
-![gambar metode agile](/Gambar/Agile.png)
+![gambar metode agile](/Gambar/Agile.png)</br>
 Metode Agile merupakan metode MPPL yang dalam pengembangan perangkat lunaknya dilakukan secara keseluruhan dan berskala besar.
 Metode Agile sendiri merupakan metode yang modern karena menekankan improvisasi dan adaptasi dalam pengerjaannya. Meskipun metode Agile merupakan metode yang modern
 , metode Agile sendiri masih menerapkan pola tradisional yang sistematis pada alur kerjanya. Pada umumnya urutan tahapan metode Agile adalah :
